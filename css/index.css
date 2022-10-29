@@ -26,5 +26,11 @@
 h4{
   color: black;
 }
+.carousel-inner{
+  height:15rem;
+  border-radius: 20px;
+}
 
+
+  
 
